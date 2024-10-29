@@ -3,7 +3,7 @@ HashpowerMonster Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/hashpowermonster-project/hashpowermonster.svg?branch=master)](https://travis-ci.org/hashpowermonster-project/hashpowermonster)
 
-https://hashpowermonster.org
+https://hashpower.monster
 
 What is HashpowerMonster?
 ----------------
