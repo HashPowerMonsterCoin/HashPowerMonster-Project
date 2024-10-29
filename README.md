@@ -15,7 +15,7 @@ out collectively by the network. HashpowerMonster Core is the name of open sourc
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the HashpowerMonster Core software, see [https://hashpowermonster.org](https://hashpower.monster).
+the HashpowerMonster Core software, see https://hashpower.monster.
 
 License
 -------
